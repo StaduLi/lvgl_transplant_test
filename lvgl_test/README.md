@@ -125,7 +125,6 @@ you should open the idf.py menuconfig and then select the pin and select the chi
 or you can use the sdk configure tool to configure the port.
 these two method all work.
 
-![image-20241217132847648](C:\Users\LiYou\AppData\Roaming\Typora\typora-user-images\image-20241217132847648.png)
 
 
 
